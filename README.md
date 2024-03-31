@@ -1,5 +1,4 @@
-#Tech enthusiast fueled by the excitement of overcoming challenges.
-<!---
-Henrique2Oliveira/Henrique2Oliveira is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+
+<h1 align="center"> Hi 👋, I'm Henry</h1>
+<h2> Tech enthusiast fueled by the excitement of overcoming challenges.</h2>
+<p align="left"> <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a> </p>
